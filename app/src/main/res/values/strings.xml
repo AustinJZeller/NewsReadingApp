@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Reading App</string>
+
+    <string name="title">Fake news is killing peoples mind says Apple boss Tim Cook</string>
+    <string name="section">Technology</string>
+    <string name="date">2017-05-25</string>
+
+    <string name="no_internet_connection">No Connection.</string>
+</resources>
